@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .container {
   position: relative;
-  padding-top: 74px;
+  padding-top: 80px;
   text-align: center;
 }
 #hero h1 {
@@ -1242,6 +1242,7 @@ section {
 #footer .footer-top .footer-info h3 span {
   color: #ffc451;
 }
+
 #footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
