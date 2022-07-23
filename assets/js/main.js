@@ -60,6 +60,22 @@
   window.addEventListener('load', navbarlinksActive)
   onscroll(document, navbarlinksActive)
 
+  /**Page Selector */
+  // const parcelsPage = document.querySelector("#parcels")
+  // const zoningPage = document.querySelector("#zoning")
+  // const locationPage = document.querySelector("#location")
+  // const allPages = [zoningPage, locationPage, parcelsPage]
+  
+  // const showPage = (pageToShow)=>{
+  //   allPages.forEach (page => {
+  //     if (page === pageToShow) {
+  //       page.style ["display"] = "block"
+  //     } else {
+  //       page.style ["display"] = "none"
+  //     }
+  //   })
+  // }
+
   /**
    * Scrolls to an element with header offset
    */
